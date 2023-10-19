@@ -27,3 +27,14 @@ The repository includes a sample text and a Python script demonstrating how to u
 # Acknowledgments:
 The code in this repository builds upon various open-source Python libraries, including NLTK, spaCy, and pandas.
 
+# Sample Run:
+the used text "The quick brown fox jumped over the lazy dog. 
+A computer program is a collection of code that performs a specific task. 
+Paris, often referred to as the 'City of Love' and the 'City of Lights,' is a captivating metropolis that needs no introduction.
+The sun sets behind the mountains, casting a warm golden hue across the tranquil lake."
+
+output in Excel file:
+
+![image](https://github.com/Lujain-M02/Text-Processing-Toolkit/assets/119123675/c9b0a05c-a867-4c06-9a50-cda72ec929bb)
+
+
